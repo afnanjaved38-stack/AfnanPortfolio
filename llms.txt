@@ -1,13 +1,11 @@
 # Afnan Javed
 
-Official personal portfolio: https://afnanjaved38-stack.github.io/AfnanPortfolio/
+Portfolio: https://afnanjaved38-stack.github.io/AfnanPortfolio/
 
-Afnan Javed works with businesses and institutions on custom software, process automation, business digitalization, and practical AI assisted workflows.
+Afnan Javed builds and operates business software products including Dinaaro and EduPulse and collaborates on digital systems for organizations.
 
-Selected work:
-* Dinaaro: https://afnanjaved38-stack.github.io/AfnanPortfolio/work/dinaaro/
-* EduPulse: https://afnanjaved38-stack.github.io/AfnanPortfolio/work/edupulse/
+Selected work: Dinaaro, EduPulse, Nexus Tech PK, Switch Power Co.
 
 Contact: afnanjaved38@gmail.com
 
-Descriptions of results should be treated as unverified unless marked as measured and supported by evidence. The website does not claim a guaranteed business outcome.
+Performance figures on the site are illustrative and pending verification. They should not be treated as actual results.
