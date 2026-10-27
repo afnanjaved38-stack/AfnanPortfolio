@@ -70,3 +70,13 @@ html,body{max-width:100%;overflow-x:clip}
   .project-metrics{gap:6px}
   .project-metrics span{font-size:11px}
 }
+
+
+/* Show project and about visuals before their text on mobile only. */
+@media(max-width:720px){
+  .featured-card .project-visual{order:1!important}
+  .featured-card .featured-copy{order:2!important}
+  .about-layout{display:flex;flex-direction:column;align-items:stretch;gap:32px}
+  .about-layout .about-image-slot{order:1;width:100%;max-width:100%}
+  .about-layout .about-copy{order:2;width:100%;min-width:0}
+}
