@@ -184,3 +184,30 @@ html,body{max-width:100%;overflow-x:clip}
 @media(prefers-reduced-motion:reduce){
   .about-image-slot .about-portrait{transition:none}
 }
+
+
+/* Display the About photo in its natural portrait shape, not a square crop. */
+.about-layout .about-image-slot{
+  width:100%;
+  max-width:430px;
+  height:auto;
+  aspect-ratio:3/4;
+  min-height:0;
+  justify-self:center;
+  align-self:center;
+}
+.about-image-slot .about-portrait{
+  object-fit:cover;
+  object-position:center center;
+}
+@media(max-width:720px){
+  .about-layout .about-image-slot{
+    width:min(100%,390px);
+    max-width:390px;
+    height:auto;
+    aspect-ratio:3/4;
+    align-self:center;
+    margin-inline:auto;
+  }
+  .about-image-slot .about-portrait{object-position:center center}
+}
