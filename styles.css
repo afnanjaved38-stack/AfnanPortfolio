@@ -83,40 +83,46 @@ html,body{max-width:100%;overflow-x:clip}
 
 
 
-/* Portrait framing: keep the head clear of text and lift the backdrop above it. */
+/* Balanced portrait backdrop and readable floating text. */
 .hero-art{isolation:isolate}
 .portrait-disc{
   z-index:0;
-  top:-17%;
-  left:-3%;
-  width:106%;
+  top:-12%;
+  left:-5%;
+  width:112%;
+  aspect-ratio:1;
   pointer-events:none;
 }
 .hero-float{
   position:absolute;
-  z-index:1;
-  display:grid;
-  place-items:center;
-  width:52px;
-  height:52px;
-  border:1px solid rgba(207,245,231,.27);
-  border-radius:15px;
-  background:linear-gradient(145deg,rgba(78,129,127,.48),rgba(21,47,56,.74));
-  box-shadow:0 12px 27px rgba(7,24,31,.22);
-  color:#e2fff4;
-  font:800 19px Manrope,sans-serif;
-  line-height:1;
-  backdrop-filter:blur(6px);
-  -webkit-backdrop-filter:blur(6px);
+  z-index:5;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:auto;
+  height:auto;
+  max-width:44%;
+  padding:10px 14px;
+  border:1px solid rgba(207,245,231,.3);
+  border-radius:12px;
+  background:linear-gradient(145deg,rgba(64,109,109,.83),rgba(22,49,57,.9));
+  box-shadow:0 10px 25px rgba(7,24,31,.2);
+  color:#e5fff5;
+  font:700 11px Manrope,sans-serif;
+  line-height:1.35;
+  letter-spacing:.015em;
+  white-space:nowrap;
+  backdrop-filter:blur(7px);
+  -webkit-backdrop-filter:blur(7px);
   pointer-events:none;
   animation:hero-float-bob 6s ease-in-out infinite;
 }
-.hero-float-ai{left:6%;top:29%;font-size:16px;transform:rotate(-7deg)}
-.hero-float-gear{right:5%;top:23%;font-size:27px;animation-delay:-2s}
-.hero-float-growth{right:2%;bottom:25%;font-size:27px;animation-delay:-4s}
+.hero-float-ai{left:0;top:33%;rotate:-5deg}
+.hero-float-systems{right:-3%;top:23%;rotate:4deg;animation-delay:-2s}
+.hero-float-impact{right:-10%;bottom:21%;rotate:-3deg;animation-delay:-4s}
 @keyframes hero-float-bob{
   0%,100%{translate:0 0}
-  50%{translate:0 -9px}
+  50%{translate:0 -7px}
 }
 @media(max-width:720px){
   .hero-signoff{margin-bottom:22px;position:relative;z-index:5}
@@ -135,22 +141,24 @@ html,body{max-width:100%;overflow-x:clip}
     transform:translateX(-2%);
   }
   .portrait-disc{
-    top:-18%;
-    left:2%;
-    width:96%;
+    top:-13%;
+    left:-3%;
+    width:106%;
   }
   .hero-float{
-    width:43px;
-    height:43px;
-    border-radius:13px;
+    max-width:49%;
+    padding:8px 10px;
+    border-radius:10px;
+    font-size:9px;
+    letter-spacing:0;
   }
-  .hero-float-ai{left:2%;top:25%;font-size:14px}
-  .hero-float-gear{right:2%;top:14%;font-size:23px}
-  .hero-float-growth{right:2%;bottom:17%;font-size:23px}
+  .hero-float-ai{left:-1%;top:30%}
+  .hero-float-systems{right:-1%;top:20%}
+  .hero-float-impact{display:none}
 }
 @media(max-width:360px){
   .hero-art{margin-top:38px}
-  .hero-float{width:39px;height:39px}
+  .hero-float{font-size:8px;padding:7px 8px}
 }
 @media(prefers-reduced-motion:reduce){
   .hero-float{animation:none}
