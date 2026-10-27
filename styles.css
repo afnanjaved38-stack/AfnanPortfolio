@@ -119,7 +119,7 @@ html,body{max-width:100%;overflow-x:clip}
 }
 .hero-float-ai{left:0;top:33%;rotate:-5deg}
 .hero-float-systems{right:-3%;top:23%;rotate:4deg;animation-delay:-2s}
-.hero-float-impact{right:-10%;bottom:21%;rotate:-3deg;animation-delay:-4s}
+.hero-float-impact{right:0;bottom:17%;rotate:-3deg;animation-delay:-4s}
 @keyframes hero-float-bob{
   0%,100%{translate:0 0}
   50%{translate:0 -7px}
@@ -149,16 +149,16 @@ html,body{max-width:100%;overflow-x:clip}
     max-width:49%;
     padding:8px 10px;
     border-radius:10px;
-    font-size:9px;
+    font-size:10px;
     letter-spacing:0;
   }
-  .hero-float-ai{left:-1%;top:30%}
-  .hero-float-systems{right:-1%;top:20%}
-  .hero-float-impact{display:none}
+  .hero-float-ai{left:0;top:30%}
+  .hero-float-systems{right:0;top:19%}
+  .hero-float-impact{display:inline-flex;right:0;bottom:14%;max-width:48%}
 }
 @media(max-width:360px){
   .hero-art{margin-top:38px}
-  .hero-float{font-size:8px;padding:7px 8px}
+  .hero-float{font-size:9px;padding:7px 8px}
 }
 @media(prefers-reduced-motion:reduce){
   .hero-float{animation:none}
