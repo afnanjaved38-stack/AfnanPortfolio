@@ -30,3 +30,43 @@
 /* Improve milestone caption readability across desktop and mobile */
 .project-metrics span{font-size:12.5px;line-height:1.5;color:#61736d;display:block}
 @media(max-width:720px){.project-metrics span{font-size:12px;line-height:1.5}}
+
+
+/* Responsive width containment: prevent intrinsic grid/flex widths from stretching mobile pages. */
+html,body{max-width:100%;overflow-x:clip}
+.container,.hero-inner,.hero-content,.section-intro,.featured-stack,.featured-card,.featured-copy,.project-visual,.about-layout,.process-layout{min-width:0}
+.hero-content,.featured-card,.featured-copy,.project-visual{max-width:100%}
+.hero h1,.hero-description,.section-intro h2,.project-story,.about-copy p{overflow-wrap:break-word}
+.hero-label,.card-type{flex-wrap:wrap}
+.featured-stack{grid-template-columns:minmax(0,1fr)}
+.featured-card{width:100%}
+.project-metrics span{overflow-wrap:break-word}
+.project-visual .visual-head{min-width:0}
+@media(max-width:720px){
+  .container{width:calc(100% - 36px);max-width:calc(100% - 36px)}
+  .hero-inner{display:flex;flex-direction:column;align-items:stretch;width:calc(100% - 36px)}
+  .hero-content{width:100%;min-width:0;max-width:100%;flex:0 1 auto}
+  .hero-label{gap:8px}
+  .hero h1{font-size:clamp(31px,8.5vw,41px);line-height:1.17;letter-spacing:-.05em}
+  .hero-description{width:100%;max-width:100%}
+  .hero-art{width:100%;max-width:450px;min-width:0;align-self:center}
+  .hero-signoff{min-width:0}
+  .hero-signoff span:last-child{min-width:0;overflow-wrap:break-word}
+  .hero-actions .btn{max-width:100%}
+  .featured-stack{grid-template-columns:minmax(0,1fr);width:100%}
+  .featured-card{min-width:0;max-width:100%}
+  .featured-copy,.project-visual{width:100%;min-width:0;max-width:100%}
+  .project-metrics{grid-template-columns:repeat(3,minmax(0,1fr));min-width:0;max-width:100%}
+  .school-widgets,.dash-stat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .dash-stat-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .school-main-widget,.school-side-widget,.dash-stat-grid>div{min-width:0}
+  .visual-head,.project-title-row{flex-wrap:wrap}
+}
+@media(max-width:360px){
+  .hero h1{font-size:30px}
+  .hero-label{font-size:9px}
+  .featured-card{padding:13px}
+  .featured-copy{padding:12px 5px 6px}
+  .project-metrics{gap:6px}
+  .project-metrics span{font-size:11px}
+}
