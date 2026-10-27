@@ -81,6 +81,3 @@ html,body{max-width:100%;overflow-x:clip}
   .about-layout .about-copy{order:2;width:100%;min-width:0}
 }
 
-/* Compact category and founder labels on featured platforms. */
-.featured-card .card-type{font-size:10px;line-height:1.45;gap:7px}
-@media(max-width:720px){.featured-card .card-type{font-size:9px;gap:6px}}
