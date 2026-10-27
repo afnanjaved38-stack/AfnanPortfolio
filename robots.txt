@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://afnanjaved38-stack.github.io/AfnanPortfolio/sitemap.xml
