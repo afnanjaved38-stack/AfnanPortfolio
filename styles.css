@@ -163,3 +163,24 @@ html,body{max-width:100%;overflow-x:clip}
 @media(prefers-reduced-motion:reduce){
   .hero-float{animation:none}
 }
+
+/* About portrait: show the current placeholder until the uploaded WebP is available. */
+.about-image-slot{position:relative}
+.about-image-slot .about-portrait{
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center 44%;
+  opacity:0;
+  transition:opacity .2s ease;
+}
+.about-image-slot.has-photo .about-portrait{opacity:1}
+.about-image-slot.has-photo .about-image-art{display:none}
+@media(max-width:720px){
+  .about-image-slot .about-portrait{object-position:center 41%}
+}
+@media(prefers-reduced-motion:reduce){
+  .about-image-slot .about-portrait{transition:none}
+}
