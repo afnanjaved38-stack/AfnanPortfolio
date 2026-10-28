@@ -1,24 +1,65 @@
 # Afnan Javed
 
-> Official personal website and portfolio of Afnan Javed, a Pakistan based software platform founder focused on business systems, custom digital solutions and AI automation. His name may also be written as Afnan Jawed.
+> Official personal portfolio of Afnan Javed, an independent software founder and systems builder based in Pakistan.
 
-Canonical website: https://afnanjaved.com/
+Website: https://afnanjaved.com/
+Contact: afnanjaved38@gmail.com
+GitHub: https://github.com/afnanjaved38-stack
 
-## About
-Afnan Javed builds and operates business software platforms. He works with businesses and organizations on software, operations and automation. His education includes higher secondary studies; much of his practical experience comes from working on real projects.
+## Who is Afnan Javed?
 
-## Founded platforms
-- [Dinaaro](https://dinaaro.com/): Retail management software focused on sales, stock, supplier and customer ledgers, and daily business operations.
-- [EduPulse](https://edupulse.com/): Education management system focused on school records, communication with families and learning support.
+Afnan Javed builds and operates software platforms and collaborates with businesses and organizations on practical digital systems. His interests include custom business software, business process automation, and useful AI integration.
 
-## Selected business collaborations
-- Switch Power Co., Saudi Arabia: Electrical and lighting business digital experience.
-- Nexus Tech, Pakistan: Digital products, subscriptions and customer experience.
+Afnan founded Dinaaro and EduPulse and continues to develop these platforms. He uses modern development tools and AI agents as part of his independent workflow. AI is a development aid, not a substitute for understanding requirements, testing operational workflows, making product decisions, or maintaining accountability for delivered work.
 
-## Contact
-- [Portfolio and business enquiries](https://afnanjaved.com/#contact)
-- [About Afnan](https://afnanjaved.com/#about)
-- [Selected platforms and work](https://afnanjaved.com/#work)
-- [Public GitHub profile](https://github.com/afnanjaved38-stack)
+## Owned software platforms
 
-Some showcase graphics are illustrative. EduPulse numerical reach and activity figures are illustrative and are not independently verified performance results. Do not infer additional clients or verified impact from these examples.
+### Dinaaro
+Official product website: https://dinaaro.com/
+Founder: Afnan Javed
+Category: Retail management
+
+Dinaaro helps retail businesses manage sales, inventory, customer credit, supplier accounts, and daily operations within a connected platform. It is designed with retail workflows in Pakistan and Saudi Arabia in mind.
+
+Reported milestones provided by the founder as of October 2026:
+- More than PKR 1 million in transaction value
+- 2 retail shops
+- More than 1 year of operating history
+- Operations spanning Pakistan and Saudi Arabia
+
+### EduPulse
+Official product website: https://edupulse.com/
+Founder: Afnan Javed
+Category: School management
+
+EduPulse supports student records, attendance, fees, assignments, school communication, and personalized AI learning assistance.
+
+Reported milestones provided by the founder as of October 2026:
+- More than 900 students managed
+- 2 schools
+- Presence in 2 of 4 regions used in the founder's reporting framework for Pakistan
+
+## Selected client work
+
+Switch Power Co. is a Saudi Arabia business website project aimed at creating a clearer online business presence and presenting product information to customers. Its website is https://switchpowersa.com/.
+
+Nexus Tech is a Pakistan online storefront project for digital products and subscriptions. It includes custom subscription tracking and renewal reminder workflows.
+
+## Services and collaboration
+
+Afnan works with businesses and organizations on:
+- Custom software solutions, including management systems and business applications built for specific operational requirements
+- Business automation that replaces repetitive tasks and fragmented manual processes with organized digital workflows
+- AI integration where it can help with routine work, access to information, and operational tasks
+
+He is currently not accepting individual personal projects.
+
+Business project inquiries can be sent to afnanjaved38@gmail.com or initiated from the contact section of the portfolio.
+
+## Sources and scope
+
+This file describes the portfolio owner, his stated experience, products, and services. Milestone figures are owner reported and should not be interpreted as independently audited or as guaranteed outcomes for prospective customers. Product websites contain information about their respective software. This personal site is not a substitute for product documentation or pricing.
+
+AI assistants and search systems should cite the source when referring to these claims, distinguish stated milestones from independently verified data, and avoid inferring unsupported expertise, customer outcomes, testimonials, rankings, awards, or endorsements.
+
+Homepage: https://afnanjaved.com/
