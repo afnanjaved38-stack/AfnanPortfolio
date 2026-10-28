@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AJ">
-  <title>AJ</title>
-  <rect width="64" height="64" rx="13" fill="#111a23"/>
-  <path fill="#b8e8d8" fill-rule="evenodd" d="M7 47 19.5 16H27L40 47H32.3L29.9 40.6H16.5L14.2 47H7Zm12-12.4h8.4l-4.2-11.5-4.2 11.5Z"/>
-  <path fill="#b8e8d8" d="M47.3 16H55v21.5c0 8.7-4.8 12.5-12.9 12.5-4.3 0-7.4-1-10.2-3.2l3.4-6c2.1 1.7 4 2.3 6.4 2.3 3.9 0 5.6-1.8 5.6-5.9V16Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">AJ — Afnan Javed</title>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13 104 44 24 75 104 M27 77h34" stroke="#122730" stroke-width="21"/>
+    <path d="M13 104 44 24 75 104 M27 77h34" stroke="#8FE6C8" stroke-width="14"/>
+    <path d="M108 24v56c0 18-11 28-28 28-11 0-18-4-23-11" stroke="#122730" stroke-width="22"/>
+    <path d="M108 24v56c0 18-11 28-28 28-11 0-18-4-23-11" stroke="#F3FCF8" stroke-width="14"/>
+  </g>
 </svg>
