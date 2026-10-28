@@ -460,3 +460,5 @@ html,body{max-width:100%;overflow-x:clip}
     margin-inline:auto;}
 .about-image-slot .about-portrait{object-position:center center}
 }
+
+@media(min-width:721px){.collab-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
