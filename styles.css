@@ -16,8 +16,8 @@ button{font:inherit}
 .site-header{background:var(--navy);color:#fff;position:relative;z-index:10;border-bottom:1px solid #ffffff13}
 .header-inner{height:83px;display:flex;align-items:center;justify-content:space-between;gap:24px}
 .logo{display:flex;align-items:center;gap:12px;font-size:14px;font-weight:700}
-.logo-mark{font:800 24px Manrope,sans-serif;letter-spacing:-.11em;color:#fff}
-.logo-mark span,.footer-brand span{color:var(--teal)}
+.logo-icon{display:block;width:40px;height:40px;flex:0 0 40px;object-fit:contain}
+.footer-brand span{color:var(--teal)}
 .desktop-nav{display:flex;align-items:center;gap:30px}
 .desktop-nav a{font-size:13px;color:#c1cbd0;transition:color .2s}
 .desktop-nav a:hover{color:#fff}
