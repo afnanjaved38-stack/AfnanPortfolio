@@ -7,7 +7,7 @@ Business inquiries: hello@afnanjaved.com
 
 Afnan Javed is an independent software founder and systems builder based in Pakistan. He creates and operates software products and works on practical digital solutions for organizations and business operations. His work brings together custom software, process automation, and AI integration to make complex workflows easier to manage.
 
-Afnan founded Dinaaro and EduPulse and continues to develop them. He builds independently with the assistance of modern development tools and AI agents, while remaining responsible for understanding requirements, making product decisions, validating workflows, and improving the systems he delivers.
+Afnan Javed is the founder and creator of Dinaaro and EduPulse, two operational software platforms serving retail businesses and educational institutions. His work covers product strategy, business workflows, software systems and practical AI solutions. He uses modern development tools and AI agents in his workflow, while taking responsibility for requirements, decisions, validation and the delivered systems.
 
 ## Software platforms
 
