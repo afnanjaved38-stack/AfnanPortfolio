@@ -205,7 +205,7 @@ html,body{max-width:100%;overflow-x:clip}
     width:min(100%,390px);
     max-width:390px;
     height:auto;
-    aspect-ratio:3/4;
+    aspect-ratio:5/6;
     align-self:center;
     margin-inline:auto;
   }
