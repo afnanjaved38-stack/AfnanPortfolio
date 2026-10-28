@@ -9,7 +9,7 @@ A lightweight static portfolio for Afnan Javed, founder of Dinaaro and EduPulse,
 - `index.html`: semantic portfolio content, metadata, social sharing tags, and structured data.
 - `styles.css`: responsive presentation.
 - `script.js`: mobile navigation and copyright year.
-- `assets/favicon.svg`: simple capital `AJ` site icon.
+- `assets/favicon.svg` and `assets/favicon.png`: capital `AJ` site icon for browsers and Google Search.
 - `assets/afnan-portrait-clean.webp`: main profile image.
 - `assets/afnan-about-portrait.webp`: About section portrait.
 - `robots.txt`: crawler access rules and sitemap location.
