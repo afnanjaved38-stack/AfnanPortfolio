@@ -1,8 +1,24 @@
-const button=document.querySelector('.menu-toggle');const nav=document.getElementById('mobile-nav');if(button&&nav){button.addEventListener('click',()=>{const open=nav.hasAttribute('hidden');if(open){nav.removeAttribute('hidden')}else{nav.setAttribute('hidden','')}button.setAttribute('aria-expanded',String(open));button.setAttribute('aria-label',open?'Close navigation':'Open navigation')});nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{nav.setAttribute('hidden','');button.setAttribute('aria-expanded','false');button.setAttribute('aria-label','Open navigation')}))}const year=document.getElementById('copyright-year');if(year)year.textContent=new Date().getFullYear();
-// Activate the uploaded About portrait only after its image has loaded successfully.
-const aboutPortrait=document.querySelector('.about-image-slot .about-portrait');
-if(aboutPortrait){
-  const showAboutPortrait=()=>aboutPortrait.parentElement.classList.add('has-photo');
-  if(aboutPortrait.complete&&aboutPortrait.naturalWidth>0)showAboutPortrait();
-  else aboutPortrait.addEventListener('load',showAboutPortrait,{once:true});
+const menuButton = document.querySelector(".menu-toggle");
+const mobileNav = document.getElementById("mobile-nav");
+
+if (menuButton && mobileNav) {
+  const closeMenu = () => {
+    mobileNav.hidden = true;
+    menuButton.setAttribute("aria-expanded", "false");
+    menuButton.setAttribute("aria-label", "Open navigation");
+  };
+
+  menuButton.addEventListener("click", () => {
+    const shouldOpen = mobileNav.hidden;
+    mobileNav.hidden = !shouldOpen;
+    menuButton.setAttribute("aria-expanded", String(shouldOpen));
+    menuButton.setAttribute("aria-label", shouldOpen ? "Close navigation" : "Open navigation");
+  });
+
+  mobileNav.querySelectorAll("a").forEach(link => {
+    link.addEventListener("click", closeMenu);
+  });
 }
+
+const copyrightYear = document.getElementById("copyright-year");
+if (copyrightYear) copyrightYear.textContent = new Date().getFullYear();
