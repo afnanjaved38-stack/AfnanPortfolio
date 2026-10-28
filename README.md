@@ -1,12 +1,12 @@
 # Afnan Javed Personal Portfolio
 
 Official website: https://afnanjaved.com/
+Contact: hello@afnanjaved.com
 
-A lightweight personal portfolio presenting Afnan Javed, independent software founder and systems builder based in Pakistan. The site presents his own software products, selected business collaborations, custom software services, business automation, and practical AI integrations.
+A personal portfolio for Afnan Javed, an independent software founder and systems builder based in Pakistan. It presents his own software platforms, client collaborations, custom software solutions, business automation, and AI integration.
 
-## Content architecture
+## Website sections
 
-The single page contains six sections in this order:
 1. Home
 2. My Projects: Dinaaro and EduPulse
 3. Client Work: Switch Power Co. and Nexus Tech
@@ -14,48 +14,37 @@ The single page contains six sections in this order:
 5. About Me
 6. Contact
 
-The hero and About introduce the founder. Product links go to the official websites instead of duplicating their marketing content. Client work is a separate, secondary section. The Services section makes collaboration areas explicit.
+## Project milestones
 
-## Files
-
-- `index.html`: complete semantic content, metadata, social sharing, Schema.org structured data
-- `styles.css`: responsive design system, desktop and mobile layouts
-- `script.js`: accessible mobile navigation and current copyright year
-- `assets/afnan-portrait-clean.webp`: hero portrait
-- `assets/afnan-about-portrait.webp`: About portrait
-- `assets/favicon.svg` and `assets/favicon.png`: AJ visual identity
-- `robots.txt`: crawler guidance and sitemap discovery
-- `sitemap.xml`: canonical URL index
-- `llms.txt`: optional descriptive context for systems that voluntarily read this file
-- `CNAME`: GitHub Pages custom domain
-
-## Published milestones
-
-These numbers were supplied by the portfolio owner in October 2026. They are treated as the owner's actual reported results rather than placeholders, but have not been independently audited by this repository.
-
-Dinaaro:
+### Dinaaro
 - PKR 1M+ transaction value
 - 2 retail shops
 - 1+ year operating across Pakistan and Saudi Arabia
 
-EduPulse:
+### EduPulse
 - 900+ students managed
 - 2 schools
-- 2 of 4 reporting regions in Pakistan
+- 2 of 4 regions reached in Pakistan
 
-Do not replace these with unsupported larger numbers or fabricate client testimonials, revenue growth, endorsements, or rankings. Interpret the region figure using the owner's stated framework rather than as an official administrative claim.
+## Project files
 
-## Deployment and discovery
+- `index.html`: page content, metadata and structured data
+- `styles.css`: responsive design and visual styles
+- `script.js`: mobile navigation and copyright year
+- `assets/afnan-portrait-clean.webp`: hero portrait
+- `assets/afnan-about-portrait.webp`: About portrait
+- `assets/favicon.svg` and `assets/favicon.png`: AJ visual identity
+- `robots.txt`: crawler guidance and sitemap location
+- `sitemap.xml`: canonical homepage
+- `llms.txt`: concise public description of Afnan, his projects and areas of work
+- `CNAME`: custom domain for GitHub Pages
 
-Deploy the root of the `main` branch using GitHub Pages with `afnanjaved.com` configured as the custom domain. Verify DNS and HTTPS. Submit `https://afnanjaved.com/sitemap.xml` to Google Search Console.
+## Website deployment
 
-Canonical and Open Graph URLs point to the custom domain. Structured data identifies the person, website, profile, and two founded software products.
+The website is a static site deployed from the `main` branch using GitHub Pages with the custom domain `afnanjaved.com`.
 
-The `llms.txt` document is an optional informational page, not a Google ranking factor and not a guarantee of recommendation by any AI system.
+Maintain the site's HTTPS configuration, canonical metadata, sitemap and structured data when making updates. The project cards link to the official product websites.
 
-## Ongoing checks
+## Maintenance
 
-- Validate external product links and email delivery.
-- Keep reported milestones accurate and updated.
-- Replace illustrative design graphics with actual screenshots when they are available.
-- Check mobile layout, image cropping, navigation, accessibility, page speed and live deployment.
+Keep project details, business milestones, contact links, images and service descriptions current. Check mobile layouts and navigation after design changes, and validate the published website in a browser.
