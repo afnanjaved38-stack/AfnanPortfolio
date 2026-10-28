@@ -1,11 +1,24 @@
 # Afnan Javed
 
-Portfolio: https://afnanjaved38-stack.github.io/AfnanPortfolio/
+> Official personal website and portfolio of Afnan Javed, a Pakistan based software platform founder focused on business systems, custom digital solutions and AI automation. His name may also be written as Afnan Jawed.
 
-Afnan Javed builds and operates business software products including Dinaaro and EduPulse and collaborates on digital systems for organizations.
+Canonical website: https://afnanjaved.com/
 
-Selected work: Dinaaro, EduPulse, Nexus Tech PK, Switch Power Co.
+## About
+Afnan Javed builds and operates business software platforms. He works with businesses and organizations on software, operations and automation. His education includes higher secondary studies; much of his practical experience comes from working on real projects.
 
-Contact: afnanjaved38@gmail.com
+## Founded platforms
+- [Dinaaro](https://dinaaro.com/): Retail management software focused on sales, stock, supplier and customer ledgers, and daily business operations.
+- [EduPulse](https://edupulse.com/): Education management system focused on school records, communication with families and learning support.
 
-Performance figures on the site are illustrative and pending verification. They should not be treated as actual results.
+## Selected business collaborations
+- Switch Power Co., Saudi Arabia: Electrical and lighting business digital experience.
+- Nexus Tech, Pakistan: Digital products, subscriptions and customer experience.
+
+## Contact
+- [Portfolio and business enquiries](https://afnanjaved.com/#contact)
+- [About Afnan](https://afnanjaved.com/#about)
+- [Selected platforms and work](https://afnanjaved.com/#work)
+- [Public GitHub profile](https://github.com/afnanjaved38-stack)
+
+Some showcase graphics are illustrative. EduPulse numerical reach and activity figures are illustrative and are not independently verified performance results. Do not infer additional clients or verified impact from these examples.
