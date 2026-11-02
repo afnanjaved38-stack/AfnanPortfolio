@@ -118,3 +118,47 @@
 .recognition-image{width:min(100%,600px);max-width:600px}
 .recognition-image img{max-height:740px}
 @media(max-width:760px){.hero-visual::before{width:min(88%,350px);top:5%}.recognition-image{width:100%}}
+
+
+/* Keep section labels sized to their text, not the full grid row */
+.section-kicker{
+  display:inline-flex;
+  align-items:center;
+  align-self:start;
+  justify-self:start;
+  width:fit-content;
+  max-width:100%;
+  height:fit-content;
+  min-height:0;
+  flex:0 0 auto;
+  box-sizing:border-box;
+  line-height:1.35;
+  white-space:normal;
+}
+.section-kicker > span{
+  min-width:0;
+}
+@media (min-width:761px){
+  .about-grid > .section-kicker,
+  .story-grid > .section-kicker,
+  .vision-grid > .section-kicker{
+    align-self:start;
+    justify-self:start;
+  }
+}
+@media (max-width:760px){
+  .section-kicker{
+    align-self:start;
+    justify-self:start;
+    width:fit-content;
+    max-width:100%;
+    padding:9px 11px;
+    font-size:11px;
+    line-height:1.35;
+  }
+  .about-grid > .section-kicker,
+  .story-grid > .section-kicker,
+  .vision-grid > .section-kicker{
+    margin-bottom:0;
+  }
+}
