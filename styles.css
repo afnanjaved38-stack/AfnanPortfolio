@@ -163,79 +163,49 @@
   }
 }
 
-/* Desktop: center section labels above their content and keep the highlight snug */
+
+/* Consistent section alignment across desktop and mobile */
 @media (min-width:761px){
   .about-grid,
   .story-grid,
   .vision-grid{
-    grid-template-columns:minmax(0,900px);
-    justify-content:center;
+    grid-template-columns:minmax(0,1fr);
+    justify-content:stretch;
     gap:28px;
-  }
-  .about-grid > .section-kicker,
-  .story-grid > .section-kicker,
-  .vision-grid > .section-kicker{
-    grid-column:1;
-    justify-self:center;
-    align-self:start;
-    width:max-content;
-    height:auto;
-    min-height:0;
-    padding:10px 13px;
-    margin:0;
   }
   .about-content,
   .story-content,
   .vision-content{
     grid-column:1;
     min-width:0;
+    width:100%;
+  }
+  .about-columns{
+    grid-template-columns:minmax(0,1fr);
+  }
+  .about-grid .section-kicker,
+  .story-grid .section-kicker,
+  .vision-grid .section-kicker{
+    justify-self:start;
   }
 }
-
-
-/* WhatsApp contact link and natural section label placement */
-.nav-whatsapp{
+.whatsapp-icon{
+  display:inline-block;
+  width:18px;
+  height:18px;
+  flex:0 0 18px;
+  color:#25D366;
+  vertical-align:middle;
+}
+.site-nav .nav-contact{
   display:inline-flex;
   align-items:center;
   justify-content:center;
-  width:40px;
-  height:40px;
-  flex:0 0 auto;
-  color:#25D366;
-  border:1px solid #315B4B;
-  border-radius:7px;
-  transition:background .2s,border-color .2s,transform .2s;
+  gap:9px;
 }
-.nav-whatsapp svg{display:block;width:23px;height:23px}
-.nav-whatsapp:hover,.nav-whatsapp:focus-visible{
-  background:#25D36618;
-  border-color:#25D366;
-  transform:translateY(-1px);
-}
-.about-content > .section-kicker,
-.story-content > .section-kicker,
-.vision-content > .section-kicker{
-  margin:0 0 28px;
-}
-@media(max-width:1000px){
-  .site-nav{gap:12px}
-  .nav-whatsapp{width:36px;height:36px}
-  .nav-whatsapp svg{width:21px;height:21px}
-}
+.site-nav .nav-contact .whatsapp-icon{width:19px;height:19px;flex-basis:19px}
+.button-primary .whatsapp-icon{color:var(--ink)}
+.button-outline .whatsapp-icon{color:#25D366}
 @media(max-width:760px){
-  .site-nav .nav-whatsapp{
-    width:100%;
-    height:auto;
-    min-height:48px;
-    justify-content:flex-start;
-    gap:10px;
-    padding:12px 2px;
-    border:0;
-    border-bottom:1px solid #ffffff13;
-    border-radius:0;
-  }
-  .site-nav .nav-whatsapp::after{content:"WhatsApp";color:#D1D9E6;font-size:13px}
-  .about-content > .section-kicker,
-  .story-content > .section-kicker,
-  .vision-content > .section-kicker{margin-bottom:22px}
+  .site-nav .nav-contact{justify-content:center}
 }
