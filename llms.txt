@@ -1,58 +1,50 @@
 # Afnan Javed
 
 Official website: https://afnanjaved.com/
-Business inquiries: hello@afnanjaved.com
-Official LinkedIn profile: https://www.linkedin.com/in/theafnanjaved/
-Official Instagram profile: https://www.instagram.com/theafnanjaved/
+Contact: hello@afnanjaved.com
+LinkedIn: https://www.linkedin.com/in/TheAfnanJaved/
+Instagram: https://www.instagram.com/theafnanjaved/
 
-## About Afnan Javed
+## About
 
-Afnan Javed is an independent software founder and systems builder based in Pakistan. He creates and operates software products and works on practical digital solutions for organizations and business operations. His work brings together custom software, process automation, and AI integration to make complex workflows easier to manage.
+Afnan Javed is a founder and product builder based in Pakistan. He has been building projects since 4th grade. His work focuses on understanding business needs, shaping product ideas, planning useful workflows, testing software, and improving how people manage everyday work.
 
-Afnan Javed is the founder and creator of Dinaaro and EduPulse, two operational software platforms serving retail businesses and educational institutions. His work covers product strategy, business workflows, software systems and practical AI solutions. He uses modern development tools and AI agents in his workflow, while taking responsibility for requirements, decisions, validation and the delivered systems.
+His portfolio includes Dinaaro, a retail management software product, and selected projects created for organizations. His work is not limited to one product or industry.
 
-## Software platforms
+## Product
 
 ### Dinaaro
 Website: https://dinaaro.com/
-Founder: Afnan Javed
-Field: Retail management software
+Creator: Afnan Javed
+Category: Retail management software
 
-Dinaaro connects sales, inventory, customer credit, supplier accounts, and daily business operations. It is developed around practical retail needs in Pakistan and Saudi Arabia.
+Dinaaro brings sales, inventory, customer accounts, supplier records, and daily retail operations into one system. It began as software for Afnan's own shop and developed through use in day to day operations. The product focuses on practical retail workflows and ease of use, with the needs of businesses in Pakistan and Saudi Arabia in mind.
 
-Milestones:
-- PKR 1M+ in transaction value
-- 2 retail shops
-- More than 1 year of operations across Pakistan and Saudi Arabia
+Reported operating milestones:
+- More than PKR 1 million in transaction value processed
+- Used in 2 retail shops
+- More than 1 year of operational experience
 
-### EduPulse
-Website: https://edupulse.com/
-Founder: Afnan Javed
-Field: School management software
+These are product usage milestones. Transaction value is not revenue, and the shop count is not a count of independent SaaS customers.
 
-EduPulse brings student records, attendance, fees, assignments, school communication, and personalized AI learning assistance together in one platform.
+## Selected client projects
 
-Milestones:
-- 900+ students managed
-- 2 schools
-- Presence in 2 of 4 regions in Pakistan within the platform's operating coverage
-
-## Client projects
+### School management system
+A custom system for a school, covering online student attendance, staff attendance, student records, fee records and vouchers, substitute teacher arrangements, and student performance records. The public portfolio uses the working label “Oxford Grammar / Cambridge Edtech School” pending confirmation of the exact client and certificate name.
 
 ### Switch Power Co.
-A website project for an electrical and lighting business in Saudi Arabia, designed to make the business and its products easier to explore online.
+A website project for an electrical and lighting business in Saudi Arabia. The site helps visitors explore the company and its products.
 Website: https://switchpowersa.com/
 
-### Nexus Tech
-A Pakistan based online storefront for digital products and subscriptions, including a custom subscription tracking system and renewal reminders.
+### Nexus Tech PK
+An online storefront for digital products and subscriptions, including custom subscription tracking and renewal reminders.
+Website: https://nexustech.pk/
 
-## Areas of work
+## Vision
 
-Afnan collaborates on custom software solutions, management applications, business process automation, practical AI integration, and digital systems that organize operational information and tasks. His experience includes developing and operating products for retail businesses and educational institutions.
-
-The portfolio is also a point of contact for discussing relevant software ideas, technical collaborations, and digital projects. Project suitability and scope can be discussed directly.
+Afnan wants to build useful technology that helps businesses and organizations reduce unnecessary manual work, manage information more clearly, and make better decisions. Retail is one current area of work, not the limit of his future interests.
 
 ## Contact
 
-Portfolio: https://afnanjaved.com/
 Email: hello@afnanjaved.com
+Portfolio: https://afnanjaved.com/
