@@ -1,48 +1,36 @@
 # Afnan Javed Portfolio
 
-Official website: https://afnanjaved.com/
+Personal portfolio for Afnan Javed, a founder working on practical software solutions for businesses and organizations.
 
-A fast, responsive static portfolio for Afnan Javed, a founder and product builder based in Pakistan.
+## Website
 
-## Site sections
+https://afnanjaved.com/
 
-1. Home
-2. About
-3. My Work: Dinaaro
-4. The Story Behind Dinaaro
-5. Client Work: school management system, Switch Power Co., and Nexus Tech PK
-6. My Vision
-7. Contact
+## Sections
 
-## Brand
+- Hero
+- About Me
+- My Work
+- The Story Behind Dinaaro
+- Client Work
+- My Vision
+- Contact
 
-- Ink: #111820
-- Paper: #F7F6F2
-- Lime: #C8F36A
-- White: #FFFEFA
-- Muted text: #737B80
-- Pale green: #E8EEE5
+## Featured work
 
-Typography uses Manrope for headings and DM Sans for body text. The AJ monogram is the site's favicon and header mark.
+- **Dinaaro:** retail management software.
+- **Oxford Grammar / Cambridge Edtech School:** custom school management system.
+- **Switch Power Co.:** business website for an electrical and lighting company in Saudi Arabia.
+- **Nexus Tech PK:** online digital product storefront with custom subscription tracking and renewal reminders.
 
-## Files
+## Technology
 
-- `index.html`: site content, metadata, Open Graph tags, and structured data
-- `styles.css`: responsive visual system and layout
-- `script.js`: accessible mobile navigation and dynamic copyright year
-- `assets/afnan-portrait-clean.webp`: hero portrait
-- `assets/afnan-about-portrait.webp`: social preview and optional portrait asset
-- `assets/favicon.svg` and `/favicon.svg`: AJ brand mark
-- `llms.txt`: concise, factual description for AI-assisted discovery
-- `robots.txt`: crawler guidance
-- `sitemap.xml`: canonical homepage
-- `CNAME`: custom domain for GitHub Pages
+Lightweight static HTML, CSS and JavaScript. The site includes structured data, canonical and social metadata, robots.txt, sitemap.xml, llms.txt and llms-full.txt.
 
-## SEO and maintenance
+## SEO and launch checks
 
-Add the school recognition certificate only after confirming the exact school name, the wording on the document, and permission to publish it. Keep the document out of the public site until those details are verified.
+See [SEO-AND-ANALYTICS.md](SEO-AND-ANALYTICS.md) for metadata, accuracy rules, Search Console steps and post-deployment verification.
 
+## Accuracy notes
 
-The homepage is the only canonical indexable page. Keep the page title, meta description, Open Graph data, Person schema, and `llms.txt` consistent. Do not add unlaunched products or unsupported claims. Check mobile navigation, contrast, links, image loading, and structured data after changes.
-
-The site is static HTML, CSS and JavaScript. It requires no build step.
+Dinaaro's transaction value is not revenue. The two-shop figure describes operational use, not independent SaaS customers. The school certificate's exact title and issuing organization must be verified before publishing a certificate image or more specific claim.
