@@ -106,3 +106,15 @@
   .footer-bottom{flex-direction:column;gap:8px;align-items:flex-start}
   .footer-bottom>span{display:block}
 }
+
+
+/* Final release visual adjustments */
+.hero-visual::before{width:min(94%,490px);top:2%;box-shadow:0 0 0 18px #24487920,0 0 0 36px #24487910}
+.hero-contact-button{background:transparent;color:#F5F8FC;border:1px solid #7894BC}
+.hero-contact-button:hover{background:#FFFFFF12;border-color:var(--blue)}
+.section-kicker{border-left:3px solid var(--blue);box-shadow:0 5px 16px #1C4A8B0D;color:#173F7D;background:#D7E6FF;border-color:#AFC9F2}
+.section-kicker>span:first-child{color:#174FAD}
+.story-section .section-kicker{background:#1C3964;border-color:#527CB8;border-left-color:var(--blue);color:#F1F6FF}
+.recognition-image{width:min(100%,600px);max-width:600px}
+.recognition-image img{max-height:740px}
+@media(max-width:760px){.hero-visual::before{width:min(88%,350px);top:5%}.recognition-image{width:100%}}
