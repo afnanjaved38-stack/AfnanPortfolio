@@ -1,50 +1,45 @@
-# Afnan Javed Personal Portfolio
+# Afnan Javed Portfolio
 
 Official website: https://afnanjaved.com/
-Contact: hello@afnanjaved.com
 
-A personal portfolio for Afnan Javed, an independent software founder and systems builder based in Pakistan. It presents his own software platforms, client collaborations, custom software solutions, business automation, and AI integration.
+A fast, responsive static portfolio for Afnan Javed, a founder and product builder based in Pakistan.
 
-## Website sections
+## Site sections
 
 1. Home
-2. My Projects: Dinaaro and EduPulse
-3. Client Work: Switch Power Co. and Nexus Tech
-4. Services
-5. About Me
-6. Contact
+2. About
+3. My Work: Dinaaro
+4. The Story Behind Dinaaro
+5. Client Work: school management system, Switch Power Co., and Nexus Tech PK
+6. My Vision
+7. Contact
 
-## Project milestones
+## Brand
 
-### Dinaaro
-- PKR 1M+ transaction value
-- 2 retail shops
-- 1+ year operating across Pakistan and Saudi Arabia
+- Ink: #111820
+- Paper: #F7F6F2
+- Lime: #C8F36A
+- White: #FFFEFA
+- Muted text: #737B80
+- Pale green: #E8EEE5
 
-### EduPulse
-- 900+ students managed
-- 2 schools
-- 2 of 4 regions reached in Pakistan
+Typography uses Manrope for headings and DM Sans for body text. The AJ monogram is the site's favicon and header mark.
 
-## Project files
+## Files
 
-- `index.html`: page content, metadata and structured data
-- `styles.css`: responsive design and visual styles
-- `script.js`: mobile navigation and copyright year
+- `index.html`: site content, metadata, Open Graph tags, and structured data
+- `styles.css`: responsive visual system and layout
+- `script.js`: accessible mobile navigation and dynamic copyright year
 - `assets/afnan-portrait-clean.webp`: hero portrait
-- `assets/afnan-about-portrait.webp`: About portrait
-- `assets/favicon.svg` and `assets/favicon.png`: AJ visual identity
-- `robots.txt`: crawler guidance and sitemap location
+- `assets/afnan-about-portrait.webp`: social preview and optional portrait asset
+- `assets/favicon.svg` and `/favicon.svg`: AJ brand mark
+- `llms.txt`: concise, factual description for AI-assisted discovery
+- `robots.txt`: crawler guidance
 - `sitemap.xml`: canonical homepage
-- `llms.txt`: concise public description of Afnan, his projects and areas of work
 - `CNAME`: custom domain for GitHub Pages
 
-## Website deployment
+## SEO and maintenance
 
-The website is a static site deployed from the `main` branch using GitHub Pages with the custom domain `afnanjaved.com`.
+The homepage is the only canonical indexable page. Keep the page title, meta description, Open Graph data, Person schema, and `llms.txt` consistent. Do not add unlaunched products or unsupported claims. Check mobile navigation, contrast, links, image loading, and structured data after changes.
 
-Maintain the site's HTTPS configuration, canonical metadata, sitemap and structured data when making updates. The project cards link to the official product websites.
-
-## Maintenance
-
-Keep project details, business milestones, contact links, images and service descriptions current. Check mobile layouts and navigation after design changes, and validate the published website in a browser.
+The site is static HTML, CSS and JavaScript. It requires no build step.
