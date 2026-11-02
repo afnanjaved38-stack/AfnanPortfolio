@@ -1,42 +1,52 @@
-# Afnan Javed — Brand Kit
+# Afnan Javed Brand Kit
 
-## Brand idea
-A founder and product builder who starts with real needs, shapes practical solutions, and improves them through use. The brand should feel thoughtful, direct, modern, and dependable rather than loud or overly corporate.
+## Brand direction
+A founder led personal brand focused on practical technology, product thinking, business improvement, and innovation. The identity should feel modern, dependable, and clear rather than flashy or agency-like.
 
-## Voice
-- Use clear, everyday English.
-- Explain what a product does before making broad claims.
-- Prefer specific examples and grounded outcomes.
-- Avoid hype, buzzwords, and claims that cannot be verified.
-- Present Dinaaro as one important product, not the whole identity.
-- Keep the focus on business needs, product thinking, and useful technology.
+## Logo and site icon
+- Primary icon: an AJ monogram in electric blue on a deep navy rounded square.
+- Main asset: /favicon.svg; matching copy: /assets/favicon.svg.
+- Use uppercase A and J with a compact, connected visual relationship.
+- Keep the icon on its deep navy background. Do not stretch, add effects, or recolor it.
+- Use the written name “Afnan Javed” alongside the mark in the header and footer.
 
 ## Color palette
-
-| Name | Hex | Use |
-|---|---|---|
-| Ink | #111820 | Main dark background, primary text |
-| Ink Soft | #202A33 | Supporting dark surfaces |
-| Paper | #F7F6F2 | Main page background |
-| Warm White | #FFFEFA | Cards and clean surfaces |
-| Signal Lime | #C8F36A | Main accent, key links and actions |
-| Lime Dark | #A6D64B | Accent hover and active states |
-| Muted Gray | #737B80 | Secondary text |
-| Line | #DFE2DA | Borders and dividers |
-| Pale Green | #E8EEE5 | Vision and supporting sections |
-
-Use lime sparingly for emphasis and primary actions. Keep body text dark on light surfaces and white or pale gray on dark surfaces. Do not use lime for long body copy.
+| Role | Name | Hex | Use |
+|---|---|---|---|
+| Primary | Deep Navy | #0B1220 | Header, hero, footer, strong text |
+| Main accent | Electric Blue | #4D8DFF | AJ icon, primary buttons, links, focus and key highlights |
+| Accent hover | Bright Blue | #3678F6 | Hover states and active controls |
+| Main background | Cool White | #F5F8FC | Main page background |
+| Card surface | Pure White | #FFFFFF | Cards and content panels |
+| Secondary surface | Ice Blue | #EAF1FC | Vision section and supporting panels |
+| Product surface | Pale Blue | #E5EEFF | Product preview and visual panels |
+| Body text | Slate Blue Grey | #56657B | Paragraphs on light backgrounds |
+| Borders | Soft Blue Grey | #DCE5F0 | Dividers and card outlines |
 
 ## Typography
-- Headings: Manrope, weights 600–800.
-- Body and navigation: DM Sans, weights 400–700.
-- Use large headings with comfortable line height. Keep paragraphs short and readable.
+- Headings: Manrope, weights 500–800.
+- Body and interface: DM Sans, weights 400–700.
+- Use sentence case for headings and navigation.
+- Keep paragraphs short, readable, and easy to scan.
+- Reserve uppercase and letter spacing for small section labels.
 
-## Logo
-The AJ monogram uses Signal Lime on Ink. Use the SVG favicon/header mark on dark surfaces. Keep clear space around it and do not stretch, add effects, or recolor it without updating the brand system.
+## Layout and imagery
+- Wide, calm spacing and a clear reading order.
+- Dark navy hero with a portrait on the right on desktop; stacked layout on mobile.
+- Use the portrait without adding a fake background.
+- Keep cards clean with restrained borders and light shadows only where useful.
+- Use electric blue as an accent, not as a full-page background.
 
-## Imagery
-Use real portraits and real project imagery where available. Avoid generic stock photos, fake dashboards presented as actual product screenshots, and unverified client logos. The Dinaaro dashboard illustration on the portfolio is a decorative concept preview, not a screenshot of the live product.
+## Voice
+- Use simple, direct English.
+- Focus on useful work, real needs, practical decisions, and learning through use.
+- Avoid inflated claims, jargon, and generic labels such as “visionary entrepreneur”.
+- Describe Dinaaro as one important product, not the full limit of Afnan's work.
+- Do not publish EduPulse or Raabta in this portfolio until specifically approved.
 
-## Brand consistency
-Use Afnan Javed as the display name. Link the portfolio, LinkedIn, and Instagram profiles consistently. Do not publish products that are not ready to be presented publicly.
+## UI rules
+- Primary action: electric blue background with deep navy text.
+- Secondary action on dark surfaces: transparent background with a quiet blue-grey border.
+- Links and controls must have visible hover and keyboard focus states.
+- Preserve reduced-motion support and mobile navigation accessibility.
+- Keep the palette consistent across favicon, header, hero, cards, buttons, product mockup, and footer.
