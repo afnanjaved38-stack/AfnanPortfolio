@@ -40,6 +40,9 @@ Typography uses Manrope for headings and DM Sans for body text. The AJ monogram 
 
 ## SEO and maintenance
 
+Add the school recognition certificate only after confirming the exact school name, the wording on the document, and permission to publish it. Keep the document out of the public site until those details are verified.
+
+
 The homepage is the only canonical indexable page. Keep the page title, meta description, Open Graph data, Person schema, and `llms.txt` consistent. Do not add unlaunched products or unsupported claims. Check mobile navigation, contrast, links, image loading, and structured data after changes.
 
 The site is static HTML, CSS and JavaScript. It requires no build step.
