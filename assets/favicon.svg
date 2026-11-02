@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
   <title id="title">Afnan Javed AJ monogram</title>
   <rect width="128" height="128" rx="26" fill="#0B1220"/>
-  <path d="M17 94 41 30H57L81 94H64L58 78H40L34 94Z" fill="#4D8DFF"/>
-  <path d="M42 64H56L49 45Z" fill="#0B1220"/>
-  <path d="M62 30H103V73L91 87H72V72H86V45H62Z" fill="#4D8DFF"/>
+  <text x="64" y="83" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-9" fill="#4D8DFF">AJ</text>
 </svg>
