@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
-  <title id="title">AJ</title>
-  <path fill="#A8E0CE" transform="translate(7.39860 97.97935) scale(0.0462619 -0.0462619)" d="M13 0H297L419 356H997L1116 0H1407L877 1490H545ZM493 573 565 783C610 920 655 1063 711 1251C767 1063 811 920 855 783L925 573ZM1956 -21C2248 -21 2434 143 2434 438V1490H2169V441C2169 288 2085 205 1953 205C1822 205 1738 288 1738 441V536H1484V442C1484 144 1668 -21 1956 -21Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title"><title id="title">AJ</title><rect width="128" height="128" rx="26" fill="#111820"/><path d="M28 87 47 36h12l19 51H64l-3.5-10H45L41.5 87Zm20-21h9l-4.5-14Z" fill="#C8F36A"/><path d="M79 36h13v35c0 12-7 18-19 18-5 0-9-1-13-4l6-10c2 2 4 3 7 3 4 0 6-2 6-7Z" fill="#C8F36A"/></svg>
