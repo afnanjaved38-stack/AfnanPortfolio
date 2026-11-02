@@ -25,11 +25,6 @@ Dinaaro helps retail businesses manage sales, inventory, customer accounts, supp
 
 The product emphasizes practical retail workflows, usability and the operational details business owners need. Its operating experience includes retail environments in Pakistan and Saudi Arabia.
 
-Reported operating milestones:
-- More than PKR 1 million in transaction value processed.
-- Used in 2 retail shops.
-- More than 1 year of operational experience across Pakistan and Saudi Arabia.
-
 These are product operating milestones. Transaction value is not revenue, and the two shops should not be described as two independent SaaS customers.
 
 ## Selected client projects
@@ -39,7 +34,7 @@ These are product operating milestones. Transaction value is not revenue, and th
 - Project type: Custom school management system.
 - Website: No public project URL listed.
 
-The system supports online student attendance, teacher and staff attendance, substitute teacher arrangements, student records, fee records and vouchers, and student performance records. The school presented Afnan with a certificate in recognition of his work. The exact certificate title and issuing organization's formal name should only be stated after checking the original certificate.
+The system supports online student attendance, teacher and staff attendance, substitute teacher arrangements, student records, fee records and vouchers, and student performance records.
 
 ### Switch Power Co.
 
