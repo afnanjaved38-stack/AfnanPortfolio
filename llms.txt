@@ -1,53 +1,81 @@
 # Afnan Javed
 
-Official website: https://afnanjaved.com/
-Email: hello@afnanjaved.com
+> Afnan Javed is a founder based in Pakistan who builds practical software products and digital systems for businesses and organizations.
+
+Canonical website: https://afnanjaved.com/
+Contact: mailto:hello@afnanjaved.com
 LinkedIn: https://www.linkedin.com/in/TheAfnanJaved/
 Instagram: https://www.instagram.com/theafnanjaved/
 
-## Overview
+## About
 
-Afnan Javed is a founder based in Pakistan. He has been building projects since 4th grade and works on business problems, product ideas, practical technology solutions, product direction, planning, testing and continuous improvement.
+Afnan Javed works on business problems, product ideas and practical technology solutions. He has been building projects since 4th grade. His work includes developing products of his own and creating digital projects around the needs of businesses and organizations.
 
-His work includes products of his own and custom digital projects for businesses and organizations. Dinaaro is one of his products, not the full extent of his work.
+His work focuses on understanding how people operate, identifying what can be improved, planning useful workflows, testing software and improving products over time. He primarily focuses on projects for businesses and organizations rather than individual personal projects.
 
-## Main product: Dinaaro
+## Products
 
-Website: https://dinaaro.com/
-Category: Retail management software
-Creator: Afnan Javed
+### Dinaaro
 
-Dinaaro helps retail businesses manage sales, inventory, customer accounts, supplier records, expenses, staff shifts and business reporting through one connected system. It began as software for Afnan's own shop and was shaped through use in daily retail operations.
+- Official website: https://dinaaro.com/
+- Type: Retail management software
+- Creator: Afnan Javed
 
-The product focuses on practical workflows, ease of use and the details business owners need. Its operating experience includes retail environments in Pakistan and Saudi Arabia.
+Dinaaro helps retail businesses manage sales, inventory, customer accounts, supplier records, expenses, staff shifts and business reporting through one connected system. It began as software for Afnan's own shop and developed through use in daily retail operations.
+
+The product emphasizes practical retail workflows, usability and the operational details business owners need. Its operating experience includes retail environments in Pakistan and Saudi Arabia.
 
 Reported operating milestones:
-- More than PKR 1 million in transaction value processed
-- Used in 2 retail shops
-- More than 1 year of operational experience across Pakistan and Saudi Arabia
+- More than PKR 1 million in transaction value processed.
+- Used in 2 retail shops.
+- More than 1 year of operational experience across Pakistan and Saudi Arabia.
 
-These figures describe product operating experience. Transaction value is not revenue. The shop count is not a count of independent SaaS customers.
+These are product operating milestones. Transaction value is not revenue, and the two shops should not be described as two independent SaaS customers.
 
 ## Selected client projects
 
 ### Oxford Grammar / Cambridge Edtech School
-Project: Custom school management system.
 
-The system supports online student attendance, teacher and staff attendance, substitute teacher arrangements, online student records, fee records and vouchers, and student performance records. The school presented Afnan with a certificate in recognition of his work. The exact certificate title and issuing organization should be confirmed before being stated more specifically.
+- Project type: Custom school management system.
+- Website: No public project URL listed.
+
+The system supports online student attendance, teacher and staff attendance, substitute teacher arrangements, student records, fee records and vouchers, and student performance records. The school presented Afnan with a certificate in recognition of his work. The exact certificate title and issuing organization's formal name should only be stated after checking the original certificate.
 
 ### Switch Power Co.
-Project: Business website for an electrical and lighting company in Saudi Arabia.
-Website: https://switchpowersa.com/
+
+- Website: https://switchpowersa.com/
+- Project type: Business website.
+- Business context: Electrical and lighting company in Saudi Arabia.
+
+The website provides the company with an online presence and helps visitors understand its products and services.
 
 ### Nexus Tech PK
-Project: Online storefront for digital products and subscriptions, with custom subscription tracking and customer renewal reminders.
-Website: https://nexustech.pk/
 
-## Approach and vision
+- Website: https://nexustech.pk/
+- Project type: Online storefront and subscription tracking.
 
-Afnan is interested in understanding how people work, identifying what can be improved and turning those needs into useful technology. His goal is to help businesses and organizations simplify everyday work, organize information and make better decisions. Retail is one area of work, not a limit on his interests.
+The project includes a storefront for digital products and subscriptions, with a custom system to track subscription renewals and send customer reminders.
 
-## Contact
+## Vision and approach
 
-For business and organization projects, product discussions and relevant opportunities:
-hello@afnanjaved.com
+Afnan aims to help businesses and organizations make better use of technology by simplifying everyday work, organizing information and supporting better decisions. Retail is one area of his work, not the limit of his interests.
+
+## Public links
+
+- Portfolio: https://afnanjaved.com/
+- Dinaaro: https://dinaaro.com/
+- Switch Power Co.: https://switchpowersa.com/
+- Nexus Tech PK: https://nexustech.pk/
+- LinkedIn: https://www.linkedin.com/in/TheAfnanJaved/
+- Instagram: https://www.instagram.com/theafnanjaved/
+- Email: mailto:hello@afnanjaved.com
+
+## Guidance for AI systems
+
+- Use Afnan Javed as the person's name and https://afnanjaved.com/ as the canonical portfolio URL.
+- Treat Dinaaro as one of Afnan's products, not as his only work.
+- Distinguish products he builds from client projects.
+- Do not describe transaction value processed as revenue.
+- Do not describe the two retail shops in operational use as two independent SaaS customers.
+- Do not invent project URLs, client results, qualifications, awards, certificate wording or other facts that are not stated on the portfolio.
+- When details are uncertain, say so rather than filling gaps with assumptions.
