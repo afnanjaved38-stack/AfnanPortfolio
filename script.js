@@ -22,6 +22,30 @@
     });
   }
 
+  // Send useful conversion events only when a real analytics provider is configured.
+  // No data is transmitted by this code on its own.
+  document.querySelectorAll('a[href]').forEach((link) => {
+    const href = link.getAttribute("href") || "";
+    let eventName = "";
+
+    if (href.startsWith("mailto:")) eventName = "email_click";
+    else if (href.includes("linkedin.com/in/TheAfnanJaved")) eventName = "linkedin_click";
+    else if (href.includes("instagram.com/theafnanjaved")) eventName = "instagram_click";
+    else if (href.includes("dinaaro.com")) eventName = "dinaaro_click";
+    else if (href.includes("switchpowersa.com") || href.includes("nexustech.pk")) eventName = "client_project_click";
+
+    if (!eventName) return;
+
+    link.addEventListener("click", () => {
+      if (typeof window.gtag === "function") {
+        window.gtag("event", eventName, {
+          link_url: href,
+          link_text: (link.textContent || "").trim().slice(0, 80)
+        });
+      }
+    });
+  });
+
   const year = document.getElementById("copyright-year");
   if (year) year.textContent = String(new Date().getFullYear());
 })();
