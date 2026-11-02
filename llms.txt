@@ -1,50 +1,53 @@
 # Afnan Javed
 
 Official website: https://afnanjaved.com/
-Contact: hello@afnanjaved.com
+Email: hello@afnanjaved.com
 LinkedIn: https://www.linkedin.com/in/TheAfnanJaved/
 Instagram: https://www.instagram.com/theafnanjaved/
 
-## About
+## Overview
 
-Afnan Javed is a founder and product builder based in Pakistan. He has been building projects since 4th grade. His work focuses on understanding business needs, shaping product ideas, planning useful workflows, testing software, and improving how people manage everyday work.
+Afnan Javed is a founder based in Pakistan. He has been building projects since 4th grade and works on business problems, product ideas, practical technology solutions, product direction, planning, testing and continuous improvement.
 
-His portfolio includes Dinaaro, a retail management software product, and selected projects created for organizations. His work is not limited to one product or industry.
+His work includes products of his own and custom digital projects for businesses and organizations. Dinaaro is one of his products, not the full extent of his work.
 
-## Product
+## Main product: Dinaaro
 
-### Dinaaro
 Website: https://dinaaro.com/
-Creator: Afnan Javed
 Category: Retail management software
+Creator: Afnan Javed
 
-Dinaaro brings sales, inventory, customer accounts, supplier records, and daily retail operations into one system. It began as software for Afnan's own shop and developed through use in day to day operations. The product focuses on practical retail workflows and ease of use, with the needs of businesses in Pakistan and Saudi Arabia in mind.
+Dinaaro helps retail businesses manage sales, inventory, customer accounts, supplier records, expenses, staff shifts and business reporting through one connected system. It began as software for Afnan's own shop and was shaped through use in daily retail operations.
+
+The product focuses on practical workflows, ease of use and the details business owners need. Its operating experience includes retail environments in Pakistan and Saudi Arabia.
 
 Reported operating milestones:
 - More than PKR 1 million in transaction value processed
 - Used in 2 retail shops
-- More than 1 year of operational experience
+- More than 1 year of operational experience across Pakistan and Saudi Arabia
 
-These are product usage milestones. Transaction value is not revenue, and the shop count is not a count of independent SaaS customers.
+These figures describe product operating experience. Transaction value is not revenue. The shop count is not a count of independent SaaS customers.
 
 ## Selected client projects
 
-### School management system
-A custom system for a school, covering online student attendance, staff attendance, student records, fee records and vouchers, substitute teacher arrangements, and student performance records. The public portfolio uses the working label “Oxford Grammar / Cambridge Edtech School” pending confirmation of the exact client and certificate name.
+### Oxford Grammar / Cambridge Edtech School
+Project: Custom school management system.
+
+The system supports online student attendance, teacher and staff attendance, substitute teacher arrangements, online student records, fee records and vouchers, and student performance records. The school presented Afnan with a certificate in recognition of his work. The exact certificate title and issuing organization should be confirmed before being stated more specifically.
 
 ### Switch Power Co.
-A website project for an electrical and lighting business in Saudi Arabia. The site helps visitors explore the company and its products.
+Project: Business website for an electrical and lighting company in Saudi Arabia.
 Website: https://switchpowersa.com/
 
 ### Nexus Tech PK
-An online storefront for digital products and subscriptions, including custom subscription tracking and renewal reminders.
+Project: Online storefront for digital products and subscriptions, with custom subscription tracking and customer renewal reminders.
 Website: https://nexustech.pk/
 
-## Vision
+## Approach and vision
 
-Afnan wants to build useful technology that helps businesses and organizations reduce unnecessary manual work, manage information more clearly, and make better decisions. Retail is one current area of work, not the limit of his future interests.
+Afnan is interested in understanding how people work, identifying what can be improved and turning those needs into useful technology. His goal is to help businesses and organizations simplify everyday work, organize information and make better decisions. Retail is one area of work, not a limit on his interests.
 
 ## Contact
 
-Email: hello@afnanjaved.com
-Portfolio: https://afnanjaved.com/
+For business and organization projects, product discussions and relevant opportunities:
+hello@afnanjaved.com
