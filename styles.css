@@ -162,3 +162,32 @@
     margin-bottom:0;
   }
 }
+
+/* Desktop: center section labels above their content and keep the highlight snug */
+@media (min-width:761px){
+  .about-grid,
+  .story-grid,
+  .vision-grid{
+    grid-template-columns:minmax(0,900px);
+    justify-content:center;
+    gap:28px;
+  }
+  .about-grid > .section-kicker,
+  .story-grid > .section-kicker,
+  .vision-grid > .section-kicker{
+    grid-column:1;
+    justify-self:center;
+    align-self:start;
+    width:max-content;
+    height:auto;
+    min-height:0;
+    padding:10px 13px;
+    margin:0;
+  }
+  .about-content,
+  .story-content,
+  .vision-content{
+    grid-column:1;
+    min-width:0;
+  }
+}
