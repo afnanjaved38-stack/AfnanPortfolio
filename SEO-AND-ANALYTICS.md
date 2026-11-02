@@ -1,63 +1,72 @@
-# Portfolio SEO and Analytics Plan
+# Portfolio SEO and Analytics
 
-## Implemented in the site
-- Canonical URL: https://afnanjaved.com/
-- Page title and meta description focused on Afnan Javed's founder and product work.
-- Open Graph and Twitter metadata for social sharing.
-- Person, ProfilePage, WebSite, and Dinaaro SoftwareApplication structured data.
-- `robots.txt` points to the XML sitemap.
-- `sitemap.xml` lists the canonical homepage.
-- `llms.txt` gives AI search and assistant systems a concise, factual overview.
-- Semantic page sections, heading hierarchy, descriptive portrait alt text, skip link, mobile navigation, and reduced-motion support.
-- Consistent AJ SVG favicon in the document head and site navigation.
+## Primary purpose
 
-## Search positioning
-Primary identity query:
+Help people searching for Afnan Javed understand who he is, what kind of work he does, and how to contact him. The site presents a founder and his work across practical software solutions, one retail product, and selected client projects. Dinaaro is important but does not define the full scope of his work.
+
+## On-page SEO
+
+- Canonical homepage: https://afnanjaved.com/
+- Title: Afnan Javed | Founder Building Practical Software Solutions
+- Meta description describes business software, Dinaaro, school management software, business websites and digital systems.
+- Open Graph and Twitter metadata are aligned with the page's content.
+- Person, ProfilePage, WebSite and Dinaaro SoftwareApplication structured data are included.
+- Semantic sections and clear headings cover the profile, about section, work, Dinaaro story, client work, vision and contact.
+- robots.txt allows crawling and points to sitemap.xml.
+- sitemap.xml lists the canonical homepage.
+- llms.txt provides a concise, factual overview for AI discovery systems; llms-full.txt provides a longer reference.
+- A consistent AJ SVG favicon is used in the document head and navigation.
+
+## Search themes
+
+Primary identity:
 - Afnan Javed
 
-Supporting topic themes:
+Supporting topics:
 - Afnan Javed founder
-- Afnan Javed product builder
-- Afnan Javed business software
-- Dinaaro retail management software
 - Afnan Javed portfolio
-- Selected custom software and website projects
+- Afnan Javed business software
+- Afnan Javed product planning
+- Dinaaro retail management software
+- Custom school management system
+- Business website projects
+- Subscription tracking system
 
-The personal identity is the main topic. Dinaaro is a product associated with Afnan, not the only topic of the portfolio. Keep EduPulse and Raabta out of public copy, metadata, structured data, and AI discovery files until approved.
+Use these phrases naturally in relevant copy. Do not stuff keywords into repeated or unnatural paragraphs. The personal identity is the main topic, with project names and descriptions providing supporting context.
 
-## Content and trust
+## Accuracy and trust
+
 - Keep project descriptions factual and specific.
 - Do not present transaction value as revenue or shop usage as independent SaaS customers.
-- Keep client names consistent with the exact client and certificate wording before expanding the school project's name.
-- Add a short case study only when there are verified outcomes, screenshots, or a client-approved testimonial.
-- Link public social profiles consistently: LinkedIn and Instagram.
-- Do not add fake reviews, invented statistics, or keyword-stuffed paragraphs.
+- Keep the school project name and certificate details aligned with the original certificate before making the name more specific.
+- Do not invent client testimonials, results, analytics numbers or customer counts.
+- Do not publish EduPulse or Raabta in public copy, metadata, structured data or AI discovery files until specifically approved.
+- Confirm all external project URLs and image paths after deployment.
 
-## Technical checks
-- Confirm all portrait and social preview image files exist at the exact paths used in metadata.
-- Confirm the Dinaaro product URL is the official live URL before relying on it in structured data.
-- Test the site on mobile, tablet, and desktop.
-- Check keyboard navigation, visible focus, and reduced-motion behavior.
-- Keep CSS and JavaScript lightweight and avoid unnecessary libraries.
-- Validate JSON-LD with Google's Rich Results Test or Schema Markup Validator.
-- Check the canonical URL, sitemap, robots file, and page rendering after deployment.
-- Use Google Search Console URL Inspection to request indexing after the final version is live.
+## Technical checks before requesting indexing
+
+1. Confirm the latest GitHub main commit has been deployed to https://afnanjaved.com/.
+2. Open the live site and confirm the visible text, navigation and all links work on mobile and desktop.
+3. Check that the canonical URL returns a successful response and is not blocked by robots rules.
+4. Open https://afnanjaved.com/robots.txt and https://afnanjaved.com/sitemap.xml directly.
+5. Confirm all images used in the page and social metadata exist at the specified paths.
+6. Validate the JSON-LD with Google's Rich Results Test or Schema Markup Validator.
+7. Use Google Search Console URL Inspection to test the live URL, then request indexing if Google can access it.
+8. Submit https://afnanjaved.com/sitemap.xml in Search Console and monitor indexing status.
 
 ## Analytics status
-No analytics provider or property ID was available in the repository, so no fake ID or unapproved third-party tracking has been added. To activate measurement, create a Google Analytics 4 web stream (or choose a privacy-friendly alternative), add the real site/domain configuration, and verify it with a test visit.
 
-Suggested events once analytics is configured:
-- `email_click`: clicks on mailto links
-- `linkedin_click`: clicks to LinkedIn
-- `instagram_click`: clicks to Instagram
-- `dinaaro_click`: clicks from the portfolio to Dinaaro
-- `client_project_click`: clicks on approved client project links, if those links are later added
+No analytics provider or property ID is configured in the repository. Do not add a fabricated measurement ID. The current JavaScript only sends events if a gtag function has already been configured.
 
-Measure engaged visits and meaningful contact actions rather than raw page views alone. Keep tracking minimal and update a privacy notice if the selected analytics tool requires one.
+Suggested events after analytics is properly configured:
+- email_click
+- linkedin_click
+- instagram_click
+- dinaaro_click
+- client_project_click
 
-## After launch
-1. Open the live site and test every navigation link and CTA.
-2. Confirm the favicon and social preview render correctly.
-3. Verify Search Console ownership and submit `https://afnanjaved.com/sitemap.xml`.
-4. Inspect the homepage URL and monitor indexing or mobile usability issues.
-5. Review search queries and contact clicks monthly; update copy only when evidence supports it.
+Measure meaningful contact actions and engaged visits. Keep tracking minimal and add any required privacy notice for the selected provider.
+
+## Important limitation
+
+A GitHub commit does not prove that the production website has updated. Indexing can only be requested after the final version is live and accessible to search engines. A request does not guarantee immediate indexing or a particular ranking.
