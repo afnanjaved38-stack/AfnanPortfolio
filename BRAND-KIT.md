@@ -33,8 +33,8 @@ A founder led personal brand focused on practical technology, product thinking, 
 
 ## Layout and imagery
 - Wide, calm spacing and a clear reading order.
-- Dark navy hero with a portrait on the right on desktop; stacked layout on mobile.
-- Use the portrait without adding a fake background.
+- Dark navy hero with a large circular blue accent behind the portrait on desktop; stacked layout on mobile. Keep the hero free of floating chips.
+- Use the transparent portrait cutout over the site's decorative solid blue circle. Keep the portrait's lower edge softly blended into the hero background.
 - Keep cards clean with restrained borders and light shadows only where useful.
 - Use electric blue as an accent, not as a full-page background.
 
