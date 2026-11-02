@@ -37,7 +37,7 @@ The personal identity is the main topic. Dinaaro is a product associated with Af
 - Confirm all portrait and social preview image files exist at the exact paths used in metadata.
 - Confirm the Dinaaro product URL is the official live URL before relying on it in structured data.
 - Test the site on mobile, tablet, and desktop.
-- Check keyboard navigation, visible focus, color contrast, and reduced-motion behavior.
+- Check keyboard navigation, visible focus, and reduced-motion behavior.
 - Keep CSS and JavaScript lightweight and avoid unnecessary libraries.
 - Validate JSON-LD with Google's Rich Results Test or Schema Markup Validator.
 - Check the canonical URL, sitemap, robots file, and page rendering after deployment.
